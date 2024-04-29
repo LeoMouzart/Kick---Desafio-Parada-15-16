@@ -181,6 +181,8 @@ footer {
   letter-spacing: 1.5px;
   color: #f8f8f7;
   text-transform: uppercase;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 900;
 }
 .links-uteis {
   margin-top: 10px;
