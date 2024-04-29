@@ -79,11 +79,6 @@
     margin: 0;
     max-width: 200px;
   }
-  /* .header-nav,
-    ul,
-    .nav-item {
-      display: none;
-    } */
 
   #login {
     display: none;
@@ -123,11 +118,6 @@
     margin: 0;
     max-width: 200px;
   }
-  /* .header-nav,
-      ul,
-      .nav-item {
-        display: none;
-      } */
 
   #login input {
     display: none;
@@ -138,8 +128,4 @@
     position: relative;
     right: 0;
   }
-
-  /* .links-uteis {
-    display: none;
-  } */
 }
