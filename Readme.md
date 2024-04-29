@@ -10,7 +10,7 @@
 
 ### Observação
 
-<p> Optei por testar responsividade utilizando as media Querie combinando com propriedades do flexbox para praticar.
+<p> Optei por testar responsividade utilizando as media Querie, combinando com propriedades do flexbox para praticar.
 
 ### Desenvolvimento
 
